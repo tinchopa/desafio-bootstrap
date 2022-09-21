@@ -77,6 +77,29 @@ ul li a:hover{
 
 }
 
+.marketing{
+	padding-top: 80px;
+
+}
+
+.carouselExampleControls{
+	width: 65vh;
+}
+
+.col-lg-4 img{
+	border-radius: 100px;
+	width: 150px;
+	height: 150px;
+
+}
+
+.col-lg-4 h2{
+	padding-top: 20px;
+}
+
+.btn {
+	background-color: black;
+}
 .logo-inicio{
 
  animation-duration: 5s;
@@ -92,6 +115,8 @@ ul li a:hover{
  opacity: 1;
  
 }
+
+
 }
 
 
@@ -115,6 +140,11 @@ ul li a:hover{
 
 .logo-inicio img{
 	width: 200px;
+}
+
+.marketing{
+	padding-top: 80px;
+
 }
 
 li{
